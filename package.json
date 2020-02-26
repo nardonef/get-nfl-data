@@ -1,0 +1,19 @@
+{
+  "name": "getnfldata",
+  "version": "1.0.0",
+  "description": "Retrieves and stores NFL data from an external source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nardonef/get-nfl-data.git"
+  },
+  "author": "Frank Nardone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nardonef/get-nfl-data/issues"
+  },
+  "homepage": "https://github.com/nardonef/get-nfl-data#readme"
+}
