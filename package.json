@@ -18,7 +18,7 @@
   "homepage": "https://github.com/nardonef/get-nfl-data#readme",
   "dependencies": {
     "aws-sdk": "^2.626.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "serverless-offline": "^5.12.1",
     "serverless-offline-scheduler": "^0.4.1"
   }
