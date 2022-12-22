@@ -19,7 +19,7 @@
   "dependencies": {
     "aws-sdk": "^2.626.0",
     "node-fetch": "^2.6.0",
-    "serverless-offline": "^5.12.1",
+    "serverless-offline": "^12.0.3",
     "serverless-offline-scheduler": "^0.4.1"
   }
 }
